@@ -1,0 +1,224 @@
+.h23{
+height: 30vh;}
+.input-nav{
+width: 7cm;
+height: 1cm;
+border: 1px solid #ccc;
+border-radius: 0.25rem;}
+.nav-cl{
+    display: flex ;
+    justify-content: center;
+    align-items: center;
+    width: 1cm;
+    height: 1cm;
+background-color: #f2ce04;}
+
+.cart{
+width: 3cm;
+height: 2.3cm;
+border: 1px solid black;
+transition: 0.5s;}
+.cart::before{
+ background-color: #ac8b16;}
+.main-cl{
+background-color: #bba041;}
+.btn-main{
+width: 4.8cm;
+height: 1.3cm;
+border:  none;}
+.inp-text{
+width: 12cm;
+height: 1.3cm;
+border-left: 1px solid #ccc;
+border-right: 1px solid #ccc;
+border-top:none ;
+border-bottom: none;}
+.şəhər{
+height: 1.3cm;
+border: none;}
+.search{
+width: 1.5cm;
+height: 1.3cm;
+border: none;
+transition: 0.5s;
+background-color: #f2ce04;}
+.search:hover{
+background-color: #c49b0a;}
+.p-js{
+position:absolute;
+z-index: 0;
+margin-top: 50px;
+width: 4.8cm;
+height: 6cm;
+border-radius: 0.25rem;
+background-color: white;
+border: 1px solid #ccc;}
+.p-jsNav{
+    position:absolute;
+z-index: 0;
+width: 3.5cm;
+height: 5cm;
+background-color: white;
+margin-right: 40px;
+
+
+
+
+border-radius: 0.25rem;
+}.p-jsNav span:hover{
+background-color: #f2ce04;}
+
+.p-js span:hover{
+background-color: #f2ce04;}
+.seher-z{
+width: 20cm;
+position: absolute;
+z-index: 0;
+margin-top: 56px;
+height: 7cm;
+border-radius: 0.25rem;
+background-color:white;
+transition:0.5s ;
+}
+.seher-z a:hover{
+    border-radius: 0.25rem;
+    background-color: #f2ce04;
+}
+.email{
+width: 8cm;
+height: 1cm;
+background-color: rgba(43, 40, 40, 0.582);
+border-bottom:1px solid #ccc;
+border-top: none;
+border-left: none;
+border-right: none;
+border-radius: 0.25rem;}
+.btnn{
+width: 2cm;
+height: 1cm;
+border:  none;
+border-radius: 0.25rem;}
+.login{
+width: 9cm;
+height: 10cm;
+margin-top: 140px;
+border-left: 4px solid red;
+border-right: 4px solid rgb(45, 178, 255);
+border-bottom: 4px solid rgb(45, 178, 255) ;
+border-top:  4px solid red;
+background-color: rgb(22, 22, 22);}
+.bgg{
+background-color: rgba(27, 27, 27, 0.89);}
+.elan{
+width: 8cm;
+height: 8cm;
+background-color:#ccc;
+border:none;
+transition: 0.5s;}
+.dark{
+    background-color: black !important;
+    color: white !important;
+}
+.sa{
+    width: 2.5cm;
+    height: 1cm;
+    margin-left: 60px;
+    
+border: none;
+border-radius: 0.25rem;
+transform: 0.5s !important;
+background-color: #f2ce04;}
+.sa:hover{
+background-color: #ac8b16;}
+.zzz{
+width: 23cm;
+height: 20vh;
+position: absolute;
+z-index: 0;
+margin-top: 90px;
+background-color:rgb(255, 255, 255);
+transition: 0.5s ;}
+.zzz a:hover{
+background-color: #f2ce04;
+border-radius: 0.25rem;}
+a{
+transition: 0.5s;}
+.geyim{
+width: 8cm;
+height: 8.3cm;
+background-color: #ccc}
+.h170{
+height: 170vh;
+
+}
+.premiumm{
+    position: absolute;
+    z-index: 0;
+}
+.fss-1{
+font-size: 90px;}
+.ml{
+margin-left: 90px;}
+.Pbtn{
+border: none;
+border-radius: 0.25rem;
+background-color:#9b59b6;}
+.vip{
+   
+border: none;
+border-radius: 0.25rem;
+background-color: #f2ce04;}
+.vip-cart{
+width: 15cm;
+height: 11cm;
+border: 1px solid #3a3a3a;
+border-radius: 0.25rem;}
+.vip-number{
+width: 5cm;
+height: 6cm;
+border: 1px solid #302e2e;
+border-radius: 0.25rem;}
+.brr{
+border-radius: 50%;
+margin-left: 40px;}
+.bg-cl{
+background-color:#ccc;}
+@media screen and (min-width: 375px ) and (max-width: 667px) {
+    .ucuztapaz{
+    color: #f2ce04;}
+    .input-nav{
+    display: none;}
+    nav .bi-search{
+    display: none;}
+    nav .bttt{
+       display: none;}
+    .aaa{
+    display: none;}
+    .bi-brightness-high{
+    display: none;}
+ 
+
+
+    .inp-text{
+    width: 210px;}
+    .ff{
+    width: 120px;}
+    .şəhər{
+    display: none;
+}
+.search{
+width: 36px;}
+.elan{
+width: 170px;
+}
+footer{
+display: none;}
+.bi-list-task{
+   font-size: 130px;
+ 
+}
+.ddd {
+width:170px ;}
+
+    
+}
